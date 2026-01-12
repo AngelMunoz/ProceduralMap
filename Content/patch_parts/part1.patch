@@ -1,0 +1,906 @@
+*** Begin Patch
+*** Update File: /home/amunoz/ProceduralMap/Content/Content.mgcb
+@@
+-#begin kaykit_platformer/green/flag_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/flag_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/flag_C_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/flag_C_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/heart_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/heart_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/hoop_angled_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/hoop_angled_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/hoop_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/hoop_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_floor_base_green_lever_floor_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_floor_base_green_lever_floor_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_floor_base_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_floor_base_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_wall_base_A_green_lever_wall_A_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_wall_base_A_green_lever_wall_A_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_wall_base_A_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_wall_base_A_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_wall_base_B_green_lever_wall_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_wall_base_B_green_lever_wall_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/lever_wall_base_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/lever_wall_base_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_180_A_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_180_A_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_180_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_180_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_90_A_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_90_A_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_90_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_90_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_end_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_end_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_straight_A_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_straight_A_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/pipe_straight_B_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/pipe_straight_B_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_1x1x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_1x1x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_2x2x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_2x2x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_2x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_2x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_2x2x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_2x2x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x2x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x2x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x2x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x2x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x4x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x4x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x4x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x4x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_4x4x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_4x4x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x2x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x2x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x2x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x2x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x6x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x6x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x6x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x6x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_6x6x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_6x6x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_arrow_2x2x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_arrow_2x2x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_arrow_4x4x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_arrow_4x4x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_decorative_1x1x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_decorative_1x1x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_decorative_2x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_decorative_2x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_hole_6x6x1_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_hole_6x6x1_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_2x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_2x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_2x4x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_2x4x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_2x6x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_2x6x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_4x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_4x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_4x4x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_4x4x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_4x6x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_4x6x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_6x2x2_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_6x2x2_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_6x4x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_6x4x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/platform_slope_6x6x4_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/platform_slope_6x6x4_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/power_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/power_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_corner_double_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_corner_double_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_corner_padded_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_corner_padded_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_corner_single_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_corner_single_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_straight_double_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_straight_double_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_straight_padded_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_straight_padded_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/railing_straight_single_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/railing_straight_single_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/signage_arrow_stand_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/signage_arrow_stand_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/signage_arrow_wall_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/signage_arrow_wall_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/signage_arrows_left_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/signage_arrows_left_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/signage_arrows_right_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/signage_arrows_right_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/spring_pad_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/spring_pad_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/green/star_green.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/green/star_green.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/ball.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/ball.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_1x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_1x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_1x1x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_1x1x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_1x1x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_1x1x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_2x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_2x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_2x1x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_2x1x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_2x1x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_2x1x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_3x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_3x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_3x1x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_3x1x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_3x1x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_3x1x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_4x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_4x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_4x1x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_4x1x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/barrier_4x1x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/barrier_4x1x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/bomb.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/bomb.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/cone.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/cone.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/floor_wood_1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/floor_wood_1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/floor_wood_2x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/floor_wood_2x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/floor_wood_2x6.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/floor_wood_2x6.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/floor_wood_4x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/floor_wood_4x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_1x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_1x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_1x1x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_1x1x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_1x1x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_1x1x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_1x1x8.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_1x1x8.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_2x2x2.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_2x2x2.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_2x2x4.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_2x2x4.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/pillar_2x2x8.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/pillar_2x2x8.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/platform_wood_1x1x1.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/platform_wood_1x1x1.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/sign.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/sign.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_arrows_left.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_arrows_left.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_arrows_right.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_arrows_right.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_finish_board.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_finish_board.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_finish_wide_board.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_finish_wide_board.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_finish_wide.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_finish_wide.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/signage_finish.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/signage_finish.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/spring.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/spring.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/structure_A.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/structure_A.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/structure_B.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/structure_B.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/structure_C.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/structure_C.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/strut_horizontal.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/strut_horizontal.mtl
+-
+
+@@
+-#begin kaykit_platformer/neutral/strut_vertical.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/neutral/strut_vertical.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/arch_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/arch_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/arch_tall_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/arch_tall_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/arch_wide_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/arch_wide_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/ball_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/ball_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_1x1x1_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_1x1x1_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_1x1x2_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_1x1x2_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_1x1x4_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_1x1x4_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_2x1x1_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_2x1x1_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_2x1x2_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_2x1x2_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_2x1x4_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_2x1x4_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_3x1x1_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_3x1x1_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_3x1x2_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_3x1x2_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_3x1x4_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_3x1x4_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_4x1x1_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_4x1x1_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_4x1x2_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_4x1x2_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/barrier_4x1x4_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/barrier_4x1x4_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/bomb_A_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/bomb_A_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/bomb_B_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/bomb_B_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/bracing_large_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/bracing_large_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/bracing_medium_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/bracing_medium_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/bracing_small_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/bracing_small_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/button_base_red_button_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/button_base_red_button_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/button_base_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/button_base_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/cone_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/cone_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/diamond_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/diamond_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/flag_A_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/flag_A_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/flag_B_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/flag_B_red.mtl
+-
+
+@@
+-#begin kaykit_platformer/red/flag_C_red.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/red/flag_C_red.mtl
+-
+
+*** End Patch

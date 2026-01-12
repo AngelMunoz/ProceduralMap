@@ -1,0 +1,122 @@
+*** Begin Patch
+*** Update File: /home/amunoz/ProceduralMap/Content/Content.mgcb
+@@
+-#begin kaykit_platformer/yellow/platform_slope_4x6x4_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/platform_slope_4x6x4_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/platform_slope_6x2x2_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/platform_slope_6x2x2_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/platform_slope_6x4x4_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/platform_slope_6x4x4_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/platform_slope_6x6x4_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/platform_slope_6x6x4_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/power_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/power_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_corner_double_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_corner_double_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_corner_padded_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_corner_padded_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_corner_single_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_corner_single_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_straight_double_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_straight_double_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_straight_padded_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_straight_padded_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/railing_straight_single_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/railing_straight_single_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/signage_arrow_stand_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/signage_arrow_stand_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/signage_arrow_wall_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/signage_arrow_wall_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/signage_arrows_left_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/signage_arrows_left_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/signage_arrows_right_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/signage_arrows_right_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/spring_pad_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/spring_pad_yellow.mtl
+-
+
+@@
+-#begin kaykit_platformer/yellow/star_yellow.mtl
+-/importer:
+-/processor:
+-/build:kaykit_platformer/yellow/star_yellow.mtl
+-
+
+*** End Patch
