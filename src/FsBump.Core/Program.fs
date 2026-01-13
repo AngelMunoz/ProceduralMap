@@ -293,8 +293,6 @@ module Program =
       game.Content.RootDirectory <- "Content"
       game.Window.Title <- "Procedural Map"
       game.IsMouseVisible <- true
-      graphics.PreferredBackBufferWidth <- 1280
-      graphics.PreferredBackBufferHeight <- 720
       graphics.PreferMultiSampling <- true
       graphics.SynchronizeWithVerticalRetrace <- true
 

@@ -485,3 +485,22 @@ $RECYCLE.BIN/
 
 # Exclude 3d models
 !**/Content/**/*.obj
+
+# Allow entering the ignored bin folder
+!src/FsBump.Core/Content/bin/
+
+# Ignore contents of bin, but allow platform folders
+src/FsBump.Core/Content/bin/*
+!src/FsBump.Core/Content/bin/*/
+
+# Ignore contents of platform folders, but allow Content
+src/FsBump.Core/Content/bin/*/*
+!src/FsBump.Core/Content/bin/*/Content/
+
+# Ignore contents of Content, but allow skyboxes
+src/FsBump.Core/Content/bin/*/Content/*
+!src/FsBump.Core/Content/bin/*/Content/skyboxes/
+
+# Ignore contents of skyboxes, but allow NightSky.xnb
+src/FsBump.Core/Content/bin/*/Content/skyboxes/*
+!src/FsBump.Core/Content/bin/*/Content/skyboxes/NightSky.xnb

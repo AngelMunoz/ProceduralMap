@@ -12,8 +12,9 @@ let main _ =
     |> Program.withConfig(fun (game, graphics) ->
       game.IsMouseVisible <- true
       game.Window.Title <- "FsBump Desktop"
-      graphics.PreferredBackBufferWidth <- 800
-      graphics.PreferredBackBufferHeight <- 600)
+      game.Window.AllowAltF4 <- true
+      graphics.PreferredBackBufferWidth <- 1280
+      graphics.PreferredBackBufferHeight <- 720)
 
   use game = new ElmishGame<Model, Msg>(program)
   game.Run()
